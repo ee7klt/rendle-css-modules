@@ -2,7 +2,7 @@ import greetings from "./robot.js"
 import styles from './app.css'
 
 let element = `
-<div class="element">
+<div class="${styles.element}">
   <p>
     lorem ipsum
   </p>
